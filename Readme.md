@@ -11,11 +11,7 @@ npm run dev
 ```
 Visit: http://localhost:3000
 
-### Deploy to ECS
-```bash
-chmod +x deploy-simple.sh
-./deploy-simple.sh
-```
+
 
 ## Features
 - Upload files to EFS storage
