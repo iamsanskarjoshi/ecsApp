@@ -37,3 +37,5 @@ coverage/
 # Misc
 *.tgz
 !.github
+
+local-efs/
